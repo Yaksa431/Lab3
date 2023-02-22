@@ -3,7 +3,6 @@ int main()
 {
     float x, y;
 
-    printf("Input x (as int): ");
     x = 1;
     y = 5 * x + 20;
 
