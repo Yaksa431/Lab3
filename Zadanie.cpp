@@ -6,6 +6,6 @@ int main()
     x = 1;
     y = 5 * x + 20;
 
-    printf("Result: %f", y);
+    printf("Result: %f", y*2);
     return 0;
 }
